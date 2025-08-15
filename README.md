@@ -1,1 +1,4 @@
-# -C-mo-equilibrar-la-vida-personal-y-profesional-
+# -Cómo-equilibrar-la-vida-personal-y-profesional-
+La relación entre la labor y la vida personal de los profesionales en tecnología es más pertinente que nunca. Si usted es un líder en una empresa tecnológica o un gestor de equipos, es esencial que comprenda cómo preservar el equilibrio entre la vida personal y profesional de sus colaboradores. Un equilibrio apropiado mejora la salud mental y física,  además de que optimiza la productividad y el bienestar general de sus empleados. 
+Si usted no está seguro de cómo evaluar este equilibrio en su equipo, ahora es el momento de reflexionar y tomar medidas para prevenir que el agotamiento sea una realidad cotidiana.
+En la actualidad, el agotamiento profesional constituye una de las principales causas de enfermedad y desmotivación entre los expertos en tecnología. De acuerdo con un estudio de Haystack Analytics, el 83% de los desarrolladores experimentan agotamiento, un fenómeno vinculado a jornadas laborales excesivas, procesos ineficientes y objetivos ambiguos. 
